@@ -146,6 +146,7 @@ span{
     /* width: 55%; */
     /* border: 2px solid red; */
     letter-spacing: 2px;
+overflow:hidden;
 }
 
 .home-content h3 {
